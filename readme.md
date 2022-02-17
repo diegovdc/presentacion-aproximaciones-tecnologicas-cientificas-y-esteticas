@@ -18,7 +18,7 @@ Código y técnica desde mi problemática creativa
 ## Introducción
 
 - La composición como un concepto transversal
-- Algoritmos y sistemas dentro y fuera de la computación. Como "poetizan" en mi los algoritmos y los sistemas, su influencia en el desarrollo de mis procesos creativos, y mis elección.
+- Algoritmos y sistemas dentro y fuera de la computación. Cómo "poetizan" en mi los algoritmos y los sistemas, su influencia en el desarrollo de mis procesos creativos, y mis elección.
   - Papel estructurador en diferentes escalas y modo de ser (presencia estricta, presencia metafórico)
 - Secundariamente, los graphos como estructuras algorítmicas sumamente interesantes para mi
 
