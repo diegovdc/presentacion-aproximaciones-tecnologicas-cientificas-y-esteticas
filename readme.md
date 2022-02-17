@@ -61,7 +61,7 @@ Código y técnica desde mi problemática creativa
 
 #### Composición de funciones (matemáticas y programación)
 
-![Composición de Funciones - fuente WikiPedia](https://en.wikipedia.org/wiki/Function_composition#/media/File:Example_for_a_composition_of_two_functions.svg)
+![Composición de Funciones - fuente WikiPedia](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Example_for_a_composition_of_two_functions.svg/1280px-Example_for_a_composition_of_two_functions.svg.png)
 
 - Viene de la _Teoría de Categorías_ y el _Cálculo Lambda_.
 - Producir una función que realiza una operación extensa a partir de funciónes que realizan operación pequeñas (como una tubería o tracto de procesos - e.g. tracto intestinal - ).
