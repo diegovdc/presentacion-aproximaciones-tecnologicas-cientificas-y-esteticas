@@ -8,11 +8,11 @@ Código y técnica desde mi problemática creativa
 - Interesado en teoría del caos y ecología/permacultura - Sistemas complejos metaestables: fractalidad, autogeneratividad, autodiferenciación, autosimilitud, recrusividad, procesualidad
 - Interés secundario por las matemáticas, los procedimientos algorítmicos, la microtonalidad y el tiempo/rítmo
 - Desarrollo de varias librerías y proyectos de programación creativa en código abierto
-  - Nanc-in-a-Can (con Alejandro Franco Briones)
-  - FluentCan
-  - erv
-  - time-tiem
-  - Camposónico
+  - [Nanc-in-a-Can](https://github.com/nanc-in-a-can/canon-generator) (con Alejandro Franco Briones)
+  - [FluentCan](https://github.com/nanc-in-a-can/fluent-can) [(demo)](https://www.youtube.com/watch?v=GaApGM8byKg)
+  - [erv](https://github.com/diegovdc/erv) [(demo)](https://www.youtube.com/watch?v=w2LO5SyieY8)
+  - [time-tiem](https://github.com/diegovdc/time-tiem) [(demo)](https://www.youtube.com/watch?v=4LrjMKzQs5o)
+  - [Camposónico](https://www.camposonico.net/) [A Palestina (documental livecodeado)](https://www.youtube.com/watch?v=4LrjMKzQs5o)
 - Prefiero más el proceso que "la obra". Las obras son sólo momentos de un proceso.
 
 ## Introducción
@@ -161,7 +161,7 @@ Toby Hemenway dice en _Gaia's Garden_:
 
 ```clj
 (defn make
-  "Genera una escala CP
+  "Genera una escala CPS"
   [size factors & {:keys [period norm-fac] :or {period 2 norm-fac 1}}]
   (->> factors
        (->cps size)
@@ -183,7 +183,7 @@ Toby Hemenway dice en _Gaia's Garden_:
     - Matemáticas
       - Curvas de Bezier
   - Composiciones
-    - Garden/Earth
+    - [Garden/Earth](https://youtu.be/X4r6_j2qDd8)
       - Varias piezas en proceso para live coder, flautista en torno a la escala [Eikosany](http://www.anaphoria.com/eikosanystructures.pdf)
       - Sintesís (SC y Surge)
       - Concepto: cultivar ideas (microcomposiciones) y desarrollarlas gradualmente hasta que se integren de diversas maneras
