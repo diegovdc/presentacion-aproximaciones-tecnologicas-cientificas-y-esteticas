@@ -198,7 +198,8 @@ Toby Hemenway dice en _Gaia's Garden_:
 
 ## Recursos
 
--- Programación
+### Programación
+
 Bartoz Milewski - Teoría de Categorías para programadores (curso en video) https://www.youtube.com/watch?v=I8LbkfSSR58&list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_
 Bartoz Milewski - Teoría de Categorías para programadores (texto en linea) https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/
 Dr. Boolean - Guía para la programación funcional (Javascript) https://github.com/MostlyAdequate/mostly-adequate-guide-es
@@ -208,12 +209,14 @@ Rich Hickey - Simple Made Easy (Conferencia) https://www.youtube.com/watch?v=Sxd
 Rich Hickey - Design, Composition, Performance (Conferencia) https://www.youtube.com/watch?v=MCZ3YgeEUPg
 Scott Walshin - Functional Design Patterns (Conferencia) https://www.youtube.com/watch?v=gxf9V_GYDdc
 
--- Filosofía
+### Filosofía
+
 Gilles Deleuze y Felix Guattari - (libro) Rizoma
 Gilles Deleuze - (libro) Mil Mesetas - incluye Rizoma
 Alfred North Whitehead - (libro) Proceso y Realidad
 
--- Permacultura
+### Permacultura
+
 Toby Hemenway - (libro) Gaia's Garden
 Geoff Lawton - Integrated System Design (Video) https://www.youtube.com/watch?v=waMkYsuk1eE
 
