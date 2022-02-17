@@ -216,3 +216,8 @@ Alfred North Whitehead - (libro) Proceso y Realidad
 -- Permacultura
 Toby Hemenway - (libro) Gaia's Garden
 Geoff Lawton - Integrated System Design (Video) https://www.youtube.com/watch?v=waMkYsuk1eE
+
+## Vínculos
+
+Github: https://youtu.be/X4r6_j2qDd8
+Página web: [echoic.space](https://echoic.space)
